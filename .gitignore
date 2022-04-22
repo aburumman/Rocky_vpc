@@ -1,0 +1,12 @@
+booming*
+terraform.tfstate
+terraform.tfstate.backup
+main.sh
+*.zip
+main1.sh
+.terraform.lock.hcl
+.terraform/*apply.tfplan
+apply.tfplan
+.terraform/*
+providers/*
+destroy.tfplan
